@@ -1,7 +1,10 @@
 
 # Tea Token Bulk Sender
 
-Send your token to multiple wallet on Tea Sepolia Chain.
+Features
+- Send Multiple Token
+- Send to Multiple Wallet Address
+- Need to generate bunch of Wallet Address ? Go here https://github.com/kuncikayu/evm-wallet-generator
 ## Installation
 
 Make sure you already Installed NodeJs and NPM
